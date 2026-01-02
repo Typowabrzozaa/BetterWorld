@@ -1,8 +1,8 @@
-package com.lepszyswiat;
+package com.betterworld;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class LepszySwiatModClient implements ClientModInitializer {
+public class BetterWorldModClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
     }

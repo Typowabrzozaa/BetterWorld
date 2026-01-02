@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "lepszyswiat",
+	"id": "betterworld",
 	"version": "${version}",
-	"name": "Lepszy Swiat",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Better World",
+	"description": "A Minecraft Fabric mod that enhances world generation with new features like volcanoes, craters, and improved terrain.",
 	"authors": [
 		"Jules"
 	],
@@ -12,14 +12,14 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/lepszyswiat/icon.png",
+	"icon": "assets/betterworld/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.lepszyswiat.LepszySwiatMod"
+			"com.betterworld.BetterWorldMod"
 		],
 		"client": [
-			"com.lepszyswiat.LepszySwiatModClient"
+			"com.betterworld.BetterWorldModClient"
 		]
 	},
 	"depends": {

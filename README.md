@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Better World Mod
 
-## Setup
+This is a Minecraft Fabric mod for version 1.21.4 that aims to create a more beautiful and engaging world generation.
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
+## Features
 
-## License
+This mod will include the following features:
+- Three types of volcanoes: extinct, dormant, and active.
+- Craters of various sizes.
+- More beautiful valleys, highlands, hills, and mountains.
+- New biomes, such as a lava biome.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is currently under development.
